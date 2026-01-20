@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bodhi!</h1>
 <h3 align="center">A CS & Music Technology Student at Northeastern University</h3>
 
-- 💻 I’m currently a Software Developer for **Code4Community and Northeastern Electric Racing**
+- 💻 I’m currently a Software Engineer **Desktop Metal** and a Software Developer for **Code4Community and Northeastern Electric Racing**
 
 - 🌱 I’m currently learning **AWS**
 
