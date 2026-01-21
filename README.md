@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bodhi!</h1>
 <h3 align="center">A CS & Music Technology Student at Northeastern University</h3>
 
-- 💻 I’m currently a Software Engineer for **Desktop Metal** and a Software Developer for **Code4Community and Northeastern Electric Racing**
+- 💻 I’m currently a Software Engineer Co-op for **Desktop Metal** and a Software Developer for **Code4Community and Northeastern Electric Racing**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS**, **MQTT**, and **embededded systems development**
 
-- 🛠️ I’m currently working on **Radio Gen and Auto-EQ**
+- 🛠️ I’m currently working on embedded software for Desktop Metal and a full-stack software application for Code4Community
 
 - 📫 How to reach me **geslani.b@northeastern.edu**
 
