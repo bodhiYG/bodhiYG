@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**, **MQTT**, and **embededded systems development**
 
-- 🛠️ I’m currently working on embedded software for Desktop Metal and a full-stack software application for Code4Community
+- 🛠️ I’m currently working full-time as a Software Engineer Co-op on the Embedded Device Software Team at Desktop Metal 
 
 - 📫 How to reach me **geslani.b@northeastern.edu**
 
