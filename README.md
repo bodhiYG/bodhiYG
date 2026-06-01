@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🛠️ I’m currently working full-time as a Software Engineer Co-op on the Embedded Device Software Team at Desktop Metal 
+- 🛠️ I’m currently working full-time as a Software Engineer I Intern on the payments team at Chewy
 
 - 📫 How to reach me **geslani.b@northeastern.edu**
 
