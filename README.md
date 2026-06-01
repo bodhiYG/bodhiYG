@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bodhi!</h1>
 <h3 align="center">A CS & Music Technology Student at Northeastern University</h3>
 
-- 💻 I’m currently a Software Engineer Co-op for **Desktop Metal** and a Software Developer for **Code4Community and Northeastern Electric Racing**
+- 💻 I’m currently a Software Engineer I Intern at **Chewy** and a Software Developer for **Code4Community**
 
-- 🌱 I’m currently learning **AWS**, **MQTT**, and **embededded systems development**
+- 🌱 I’m currently learning **AWS**
 
 - 🛠️ I’m currently working full-time as a Software Engineer Co-op on the Embedded Device Software Team at Desktop Metal 
 
