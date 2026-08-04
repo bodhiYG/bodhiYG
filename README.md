@@ -3,7 +3,7 @@
 
 - 💻 I’m currently a Software Engineer I Intern at **Chewy** and a Software Developer for **Code4Community**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and **GCP**
 
 - 🛠️ I’m currently working full-time as a Software Engineer I Intern on the payments team at Chewy
 
