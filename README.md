@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS** and **GCP**
 
-- 🛠️ I’m currently working full-time as a Software Engineer I Intern on the Payments Engineering team at Chewy
+- 🛠️ I’m currently working full-time as a Software Engineer Intern on the Payments Engineering team at Chewy
 
 - 📫 How to reach me **geslani.b@northeastern.edu**
 
